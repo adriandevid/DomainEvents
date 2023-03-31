@@ -1,0 +1,15 @@
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\bin\Debug\net6.0\DomainEvents.Application.deps.json
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\bin\Debug\net6.0\DomainEvents.Application.dll
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\bin\Debug\net6.0\DomainEvents.Application.pdb
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\bin\Debug\net6.0\DomainEvents.Domain.dll
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\bin\Debug\net6.0\DomainEvents.Domain.pdb
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.csproj.AssemblyReference.cache
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.AssemblyInfoInputs.cache
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.AssemblyInfo.cs
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.csproj.CoreCompileInputs.cache
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.csproj.CopyComplete
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.dll
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\refint\DomainEvents.Application.dll
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\DomainEvents.Application.pdb
+C:\Sistemas\Patterns.Microservices\DomainEvents.Application\obj\Debug\net6.0\ref\DomainEvents.Application.dll

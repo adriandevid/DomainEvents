@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Olyhwl+ULMwrL1YFacHgRmXz1RUrpBPInIf1rg84W1g=",
+  "Source": "DomainEvents.Api",
+  "BasePath": "_content/DomainEvents.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
